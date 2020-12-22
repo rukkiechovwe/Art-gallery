@@ -536,7 +536,7 @@ p.footer{
 	.footer-address,.footer-nav{align-items: center;}
 	.footer-div > div{padding: 15px 0;}
 }
-@media only screen and (max-width:820px){
+@media only screen and (max-width:865px){
 	.navigation{visibility: hidden;flex-direction: column;position: fixed;z-index: 99;right: 0;
 	    top: 48px;background-color: #fff;height: 100vh;justify-content: flex-start;
 		align-items: flex-start;width: 0; transition: all.4s ease;}
