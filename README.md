@@ -1,1 +1,1 @@
-# Edo-Global-Art-Foundation
+Art Gallery
